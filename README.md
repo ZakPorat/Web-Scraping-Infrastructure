@@ -9,7 +9,7 @@ This repository is in its early stages and currently includes the foundational f
 main.py - The main Python script for the web scraping logic.\
 requirements.txt - Lists all the Python dependencies required for this project.
 
-#Getting Started
+# Getting Started
 To get started with this project:
 
 # Clone the repository.
