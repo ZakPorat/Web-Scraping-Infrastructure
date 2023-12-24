@@ -7,7 +7,7 @@ This repository is in its early stages and currently includes the foundational f
 # Files
 .gitignore - Specifies which files to ignore in Git.\
 main.py - The main Python script for the web scraping logic.\
-requirements.txt - Lists all the Python dependencies required for this project.\
+requirements.txt - Lists all the Python dependencies required for this project.
 
 #Getting Started
 To get started with this project:
