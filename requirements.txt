@@ -1,0 +1,5 @@
+requests==2.31.0
+bs4==0.0.1
+pdfkit==1.0.0
+colorama==0.4.6
+fake-useragent==1.4.0
