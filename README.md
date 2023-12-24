@@ -5,9 +5,9 @@ Welcome to the Web-Scraping-Infrastructure project. This project is dedicated to
 This repository is in its early stages and currently includes the foundational files for web scraping. The aim is to develop a flexible and efficient system for scraping data from various web sources.
 
 # Files
-.gitignore - Specifies which files to ignore in Git.
-main.py - The main Python script for the web scraping logic.
-requirements.txt - Lists all the Python dependencies required for this project.
+.gitignore - Specifies which files to ignore in Git.\
+main.py - The main Python script for the web scraping logic.\
+requirements.txt - Lists all the Python dependencies required for this project.\
 
 #Getting Started
 To get started with this project:
